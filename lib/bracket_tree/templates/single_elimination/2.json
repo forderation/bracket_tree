@@ -1,6 +1,6 @@
 {
   "matches":[
-    { "seats":[1,3], "winner_to":null, "loser_to":null } 
+    { "seats":[1,3], "winner_to":null, "loser_to":null, "round":1 } 
   ],
   "seats":[
     { "position": 2 },
