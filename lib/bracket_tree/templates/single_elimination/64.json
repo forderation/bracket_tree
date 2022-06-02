@@ -6,7 +6,8 @@
         3
       ],
       "winner_to": 2,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -14,7 +15,8 @@
         7
       ],
       "winner_to": 6,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -22,7 +24,8 @@
         11
       ],
       "winner_to": 10,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -30,7 +33,8 @@
         15
       ],
       "winner_to": 14,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -38,7 +42,8 @@
         19
       ],
       "winner_to": 18,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -46,7 +51,8 @@
         23
       ],
       "winner_to": 22,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -54,7 +60,8 @@
         27
       ],
       "winner_to": 26,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -62,7 +69,8 @@
         31
       ],
       "winner_to": 30,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -70,7 +78,8 @@
         35
       ],
       "winner_to": 34,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -78,7 +87,8 @@
         39
       ],
       "winner_to": 38,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -86,7 +96,8 @@
         43
       ],
       "winner_to": 42,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -94,7 +105,8 @@
         47
       ],
       "winner_to": 46,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -102,7 +114,8 @@
         51
       ],
       "winner_to": 50,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -110,7 +123,8 @@
         55
       ],
       "winner_to": 54,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -118,7 +132,8 @@
         59
       ],
       "winner_to": 58,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -126,7 +141,8 @@
         63
       ],
       "winner_to": 62,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -134,7 +150,8 @@
         67
       ],
       "winner_to": 66,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -142,7 +159,8 @@
         71
       ],
       "winner_to": 70,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -150,7 +168,8 @@
         75
       ],
       "winner_to": 74,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -158,7 +177,8 @@
         79
       ],
       "winner_to": 78,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -166,7 +186,8 @@
         83
       ],
       "winner_to": 82,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -174,7 +195,8 @@
         87
       ],
       "winner_to": 86,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -182,7 +204,8 @@
         91
       ],
       "winner_to": 90,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -190,7 +213,8 @@
         95
       ],
       "winner_to": 94,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -198,7 +222,8 @@
         99
       ],
       "winner_to": 98,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -206,7 +231,8 @@
         103
       ],
       "winner_to": 102,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -214,7 +240,8 @@
         107
       ],
       "winner_to": 106,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -222,7 +249,8 @@
         111
       ],
       "winner_to": 110,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -230,7 +258,8 @@
         115
       ],
       "winner_to": 114,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -238,7 +267,8 @@
         119
       ],
       "winner_to": 118,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -246,7 +276,8 @@
         123
       ],
       "winner_to": 122,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -254,7 +285,8 @@
         127
       ],
       "winner_to": 126,
-      "loser_to": null
+      "loser_to": null,
+      "round": 1
     },
     {
       "seats": [
@@ -262,7 +294,8 @@
         6
       ],
       "winner_to": 4,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -270,7 +303,8 @@
         14
       ],
       "winner_to": 12,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -278,7 +312,8 @@
         22
       ],
       "winner_to": 20,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -286,7 +321,8 @@
         30
       ],
       "winner_to": 28,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -294,7 +330,8 @@
         38
       ],
       "winner_to": 36,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -302,7 +339,8 @@
         46
       ],
       "winner_to": 44,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -310,7 +348,8 @@
         54
       ],
       "winner_to": 52,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -318,7 +357,8 @@
         62
       ],
       "winner_to": 60,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -326,7 +366,8 @@
         70
       ],
       "winner_to": 68,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -334,7 +375,8 @@
         78
       ],
       "winner_to": 76,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -342,7 +384,8 @@
         86
       ],
       "winner_to": 84,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -350,7 +393,8 @@
         94
       ],
       "winner_to": 92,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -358,7 +402,8 @@
         102
       ],
       "winner_to": 100,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -366,7 +411,8 @@
         110
       ],
       "winner_to": 108,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -374,7 +420,8 @@
         118
       ],
       "winner_to": 116,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -382,7 +429,8 @@
         126
       ],
       "winner_to": 124,
-      "loser_to": null
+      "loser_to": null,
+      "round": 2
     },
     {
       "seats": [
@@ -390,7 +438,8 @@
         12
       ],
       "winner_to": 8,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -398,7 +447,8 @@
         28
       ],
       "winner_to": 24,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -406,7 +456,8 @@
         44
       ],
       "winner_to": 40,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -414,7 +465,8 @@
         60
       ],
       "winner_to": 56,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -422,7 +474,8 @@
         76
       ],
       "winner_to": 72,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -430,7 +483,8 @@
         92
       ],
       "winner_to": 88,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -438,7 +492,8 @@
         108
       ],
       "winner_to": 104,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -446,7 +501,8 @@
         124
       ],
       "winner_to": 120,
-      "loser_to": null
+      "loser_to": null,
+      "round": 3
     },
     {
       "seats": [
@@ -454,7 +510,8 @@
         24
       ],
       "winner_to": 16,
-      "loser_to": null
+      "loser_to": null,
+      "round": 4
     },
     {
       "seats": [
@@ -462,7 +519,8 @@
         56
       ],
       "winner_to": 48,
-      "loser_to": null
+      "loser_to": null,
+      "round": 4
     },
     {
       "seats": [
@@ -470,7 +528,8 @@
         88
       ],
       "winner_to": 80,
-      "loser_to": null
+      "loser_to": null,
+      "round": 4
     },
     {
       "seats": [
@@ -478,7 +537,8 @@
         120
       ],
       "winner_to": 112,
-      "loser_to": null
+      "loser_to": null,
+      "round": 4
     },
     {
       "seats": [
@@ -486,7 +546,8 @@
         48
       ],
       "winner_to": 32,
-      "loser_to": null
+      "loser_to": null,
+      "round": 5
     },
     {
       "seats": [
@@ -494,7 +555,8 @@
         112
       ],
       "winner_to": 96,
-      "loser_to": null
+      "loser_to": null,
+      "round": 5
     },
     {
       "seats": [
@@ -502,7 +564,8 @@
         96
       ],
       "winner_to": null,
-      "loser_to": null
+      "loser_to": null,
+      "round": 6
     }
   ],
   "seats": [
