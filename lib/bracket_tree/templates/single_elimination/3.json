@@ -1,0 +1,15 @@
+{
+    "matches":[
+      { "seats":[1,2], "winner_to":4, "loser_to":null, "round":1 } ,
+      { "seats":[3,4], "winner_to":null, "loser_to":null, "round":2 } 
+    ],
+    "seats":[
+      { "position": 1 },
+      { "position": 2 },
+      { "position": 3 },
+      { "position": 4 },
+      { "position": 5 }
+    ],
+    "starting_seats":[1,2,3]
+  }
+  
